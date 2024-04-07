@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🔭 I’m currently working on Android<br>🌱 I’m currently learning Java<br>👯 I’m looking to collaborate with Web Development projects<br>🥅 2024 Goals: Contribute more to Open Source projects<br>⚡ Fun fact: I love Coding and Development</h2>
+<h2 align="left">🔭 I’m currently working on Android<br>🌱 I’m currently learning DSA<br>👯 I’m looking to collaborate with Web Development projects<br>🥅 2024 Goals: Contribute more to Open Source projects<br>⚡ Fun fact: I love Coding and Development</h2>
 
 ###
 
