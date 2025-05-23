@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Rawat</h1>
 <h3 align="center">I am a Software Developer messing around with technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankrawat1709&label=Profile%20views&color=0e75b6&style=flat" alt="mayankrawat1709" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankrawat1709" alt="mayankrawat1709" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **different personal projects and learning new stuff.**
